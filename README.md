@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 电子信息工程专业菜鸡大学生，资深肥宅一只\_(:3 j ∠)_
+- 写代码只是业余爱好，图一乐，没有靠这个吃饭的想法
+- 就连这个GitHub账号也是为了学Git和记代码笔记才开始用的XD
+- 自我介绍只有中文是因为<s>英语太菜</s>
+- 目前只会python基础，以后可能会学点别的
+
+- 📫 邮箱: luccachina@163.com
